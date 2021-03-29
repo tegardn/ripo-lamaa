@@ -1,1 +1,1 @@
-# tegardn-github.io
+# tegardn.github.io
